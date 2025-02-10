@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Decorations.tsx": {
+            "scaleInDock": 0.7687,
+            "scaleInEditor": 1
+        },
+        "Door.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "King.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "scale": 1.66,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 292.16867469879526,
+                "y": 150
+            }
+        }
+    },
+    "last.imagePath": "/Users/ach/_sourceCode/web/resume/assets/images/01-king_human",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "map.tmx"
+    ],
+    "project": "Pixel Adventure.tiled-project",
+    "recentFiles": [
+        "map.tmx",
+        "King.tsx",
+        "Door.tsx",
+        "Decorations.tsx",
+        "Terrain.tsx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
